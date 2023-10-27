@@ -2,3 +2,16 @@
 #results {
     display:none;
   }
+
+
+body {
+  background-image: url("img.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  
+}
+
+.container {
+  opacity: 0.9;
+}
